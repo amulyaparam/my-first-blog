@@ -25,7 +25,7 @@ SECRET_KEY = '^c1%7nkw#7h&p&@-hu9!yf9#b_8bi3+bd03(+xd5_+j+^z_ath'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'amulyap.pythonanywhere.com']
 
 
 # Application definition
